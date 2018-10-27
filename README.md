@@ -12,6 +12,6 @@ For node-server folder:
 'yarn add axios', 
 'npm start'
 
-For PicUpload-react: 
+For picArtUpload-react: 
 'npm install', 
-'npm start'# reactwithnodejs
+'npm start'
